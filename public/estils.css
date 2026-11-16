@@ -691,7 +691,7 @@ body {
     color: #3675bc;
 }
 
-.workflows a:focus-visible, .workflows input:focus-visible, .workflows [contenteditable]:focus-visible {
+.workflows a:focus-visible, .workflows input:focus-visible {
     outline: 3px solid #397ec5;
     outline-offset: 5px;
     border-radius: 4px;
@@ -707,10 +707,6 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-}
-
-.workflows, .workflows [id] {
-    scroll-margin-top: 24px;
 }
 
 .workflows .container {
@@ -830,10 +826,6 @@ body {
 
 .workflows {
     color: #292b30;
-}
-
-.workflows [id] {
-    scroll-margin-top: 90px;
 }
 
 .workflows {
@@ -1097,7 +1089,7 @@ body {
     color: #3675bc;
 }
 
-.atlas-section a:focus-visible, .atlas-section input:focus-visible, .atlas-section [contenteditable]:focus-visible {
+.atlas-section a:focus-visible, .atlas-section input:focus-visible {
     outline: 3px solid #397ec5;
     outline-offset: 5px;
     border-radius: 4px;
@@ -1113,10 +1105,6 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-}
-
-.atlas-section, .atlas-section [id] {
-    scroll-margin-top: 24px;
 }
 
 .atlas-section .container {
@@ -1236,10 +1224,6 @@ body {
 
 .atlas-section {
     color: #292b30;
-}
-
-.atlas-section [id] {
-    scroll-margin-top: 90px;
 }
 
 .atlas-section .atlas-image {
@@ -1550,7 +1534,7 @@ body {
     color: #3675bc;
 }
 
-.governance a:focus-visible, .governance input:focus-visible, .governance [contenteditable]:focus-visible {
+.governance a:focus-visible, .governance input:focus-visible {
     outline: 3px solid #397ec5;
     outline-offset: 5px;
     border-radius: 4px;
@@ -1566,10 +1550,6 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-}
-
-.governance, .governance [id] {
-    scroll-margin-top: 24px;
 }
 
 .governance .container {
@@ -1689,10 +1669,6 @@ body {
 
 .governance {
     color: #292b30;
-}
-
-.governance [id] {
-    scroll-margin-top: 90px;
 }
 
 .governance .governance-intro {
@@ -2009,7 +1985,7 @@ body {
     color: #3675bc;
 }
 
-.get-started a:focus-visible, .get-started input:focus-visible, .get-started [contenteditable]:focus-visible {
+.get-started a:focus-visible, .get-started input:focus-visible {
     outline: 3px solid #397ec5;
     outline-offset: 5px;
     border-radius: 4px;
@@ -2025,10 +2001,6 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-}
-
-.get-started, .get-started [id] {
-    scroll-margin-top: 24px;
 }
 
 .get-started .container {
@@ -2150,10 +2122,6 @@ body {
     color: #292b30;
 }
 
-.get-started [id] {
-    scroll-margin-top: 90px;
-}
-
 .get-started .button {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
@@ -2262,7 +2230,7 @@ body {
     color: #3675bc;
 }
 
-.footer a:focus-visible, .footer input:focus-visible, .footer [contenteditable]:focus-visible {
+.footer a:focus-visible, .footer input:focus-visible {
     outline: 3px solid #397ec5;
     outline-offset: 5px;
     border-radius: 4px;
@@ -2278,10 +2246,6 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-}
-
-.footer, .footer [id] {
-    scroll-margin-top: 24px;
 }
 
 .footer .container {
@@ -2391,10 +2355,6 @@ body {
 
 .footer {
     color: #292b30;
-}
-
-.footer [id] {
-    scroll-margin-top: 90px;
 }
 
 .get-started {
@@ -2676,4 +2636,3 @@ body {
     outline: 2px solid #4d8bff;
     outline-offset: 4px;
 }
-
